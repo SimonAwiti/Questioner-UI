@@ -14,7 +14,7 @@ User features
 3. Users can post questions to a specific meetup.
 4. Users can upvote or downvote a question.
 5. Questions are sorted based on the number of upvotes a question has, which helps the
-meetup organizer(s) to prioritize questions most users are interested in.
+   meetup organizer(s) to prioritize questions most users are interested in.
 6. Users can post comments to a specific question.
 
 
