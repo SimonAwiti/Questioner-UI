@@ -1,5 +1,3 @@
-# Questioner-UI
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Questioner-UI
@@ -23,8 +21,8 @@ meetup organizer(s) to prioritize questions most users are interested in.
 Manually testing 
 
 _The features can be tested or viewed by:_ 
-visiting the GH-pages website link provided below
-Or cloning the repo to your local PC
+#### visiting the GH-pages website link provided below
+#### Or cloning the repo to your local PC
 #### View the webstie [here](<https://simonawiti.github.io/SentIT-app/UI/index.html>)
 
 ## Created by:
