@@ -23,7 +23,7 @@ Manually testing
 _The features can be tested or viewed by:_ 
 #### visiting the GH-pages website link provided below
 #### Or cloning the repo to your local PC
-#### View the webstie [here](<https://simonawiti.github.io/SentIT-app/UI/index.html>)
+#### View the webstie [here](<https://simonawiti.github.io/Questioner-UI/UI/landing.html>)
 
 ## Created by:
 ## Simon Awiti
